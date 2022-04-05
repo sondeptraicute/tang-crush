@@ -2,8 +2,7 @@ const CONFIG = {
     introTitle: 'He luu cậuu!',
     introDesc: `tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.`,
     btnIntro: 'Cậu yêu tớ phải không nào <3',
-    title: 'Nếu cậu không trả lời mà thoát ra tức là muốn làm vơ tớ rùi đó nhaaa :v',
-   
+    title: 'Nếu cậu không trả lời mà thoát ra tức là muốn làm vơ tớ rùi đó nhaaa :v', 
     btnYes: 'Yêu cậuu<3',
     btnNo: 'Không, Cậu mơ à :>>',
     question:'Nói cho tớ lí do cậu thích tớ đi :vvv',
